@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "lib": ["es2019"],
+      "experimentalDecorators": true,
+      "noImplicitThis": true,
+      "alwaysStrict": true,
+      "noUnusedLocals": true
+    }
+  }
